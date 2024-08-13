@@ -1,0 +1,15 @@
+/* Add to App.css or another CSS file */
+
+.App {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+button {
+    cursor: pointer;
+}
+
+div {
+    border-left: 2px solid black;
+    padding-left: 10px;
+}
